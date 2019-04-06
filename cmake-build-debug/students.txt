@@ -1,0 +1,7 @@
+20 john male 30 40 50
+30 sheikha female 40 50 30
+450 hasna female 20 30 40
+55 kella female 45 54 54
+400 halla female 10 10 10
+40 habla female 50 60 70
+50 joe male 40 50 60
